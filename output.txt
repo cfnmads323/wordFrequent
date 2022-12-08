@@ -1,0 +1,16 @@
+Test results for:
+"Frankenstein or The Modern Prometheus by Mary Shelley.txt"
+
+  [PASSED] Find and open "Frankenstein or The Modern Prometheus by Mary Shelley.txt": as expected, the expected and actual values are equal:  {1}
+  [PASSED] numberOfWords: Frankenstein   : as expected, the expected and actual values are equal:  {7195}
+  [PASSED] wordCount: Frankenstein       : as expected, the expected and actual values are equal:  {24}  
+  [PASSED] wordCount: life               : as expected, the expected and actual values are equal:  {114} 
+  [PASSED] wordCount: feared             : as expected, the expected and actual values are equal:  {13}  
+  [PASSED] wordCount: the                : as expected, the expected and actual values are equal:  {4187}
+  [PASSED] wordCount: nonexistent        : as expected, the expected and actual values are equal:  {0}   
+  [PASSED] mostFrequentWord: Frankenstein: as expected, the expected and actual values are equal:  {the} 
+  [PASSED] maxBucketSize: Frankenstein   : as expected, the expected and actual values are equal:  {6}
+
+
+Test results for:
+"The Legend of Sleepy Hollow by Washington Irving.txt"
